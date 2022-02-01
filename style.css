@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+#practice {
+    border: solid 1px red;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+}
+
+.box-child {
+    border: solid 1px blue;
+}

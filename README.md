@@ -1,1 +1,3 @@
+querySelector practice
+
 # pratice-querySelector
